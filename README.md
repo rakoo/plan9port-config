@@ -1269,6 +1269,8 @@ Version=1.0
 
 - [Yacco](https://github.com/aarzilli/yacco)
 
+- [Anvil](https://anvil-editor.net/) (Acme reimplementation with unique functionalities)
+
 ## Other Plan 9-related tools
 
 - [ghfs](https://github.com/sirnewton01/ghfs): 9p Github file server.
